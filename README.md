@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://c.tenor.com/I1JtFdfmNP8AAAAC/bem-vindo-cute.gif" width="160" height="100">
+<img src="https://c.tenor.com/I1JtFdfmNP8AAAAC/bem-vindo-cute.gif" width="280" height="150">
 </div>
 <div align="center"><br />
   <a href="https://github.com/ThamiresLC">
